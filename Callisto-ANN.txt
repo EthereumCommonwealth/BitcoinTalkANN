@@ -1,0 +1,77 @@
+[center][img]https://i.imgur.com/c77mffs.png[/img][/center]
+
+
+[center][url=https://callisto.network][img]https://i.imgur.com/Lknptgw.png[/img][/url]      [url=https://whitepaper.callisto.network][img]https://i.imgur.com/JSva6HL.png[/img][/url][/center]
+
+
+[center][size=14pt][color=teal]Callisto Network is a decentralized open source crypto platform
+based on the go-Ethereum source code with its own cryptocurrency ëCLOí.
+
+The main goal of Callisto is to research, develop a reference implementation
+of a self-sustaining self-governed self-funded blockchain
+ecosystem and development environment.
+
+Callisto aims to establish a secure and contribution-friendly environment
+for further protocol development and improvements.
+Callisto will rely on a built-in system of smart-contracts to achieve this goal.[/color][/size][/center]
+[center][img]https://i.imgur.com/rNn0Al4.png[/img][/center]
+
+[center][img]https://i.imgur.com/yKOUyY6.png[/img][/center]
+
+
+[center][size=20pt][color=teal]100% compatibility with Ethereum Virtual Machine[/color][/size][/center]
+[center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
+[center][size=20pt][color=teal]100% compatibility with Solidity[/color][/size][/center]
+[center][img]https://i.imgur.com/zxGhT4l.png[/img][/center]
+[center][size=20pt][color=teal]Number of coins in the block: 600 CLO (20% treasury fund - 10% staking fund)[/color][/size][/center]
+[center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
+[center][size=20pt][color=teal]POW Algorithm, Dagger Hashimoto (Ethash)[/color][/size][/center]
+[center][img]https://i.imgur.com/zxGhT4l.png[/img][/center]
+[center][size=20pt][color=teal]Block interval: 15 seconds[/color][/size][/center]
+[center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
+[center][size=20pt][color=teal]Max emission of coins: 6,500,000,000 CLO[/color][/size][/center]
+
+
+[center][img]https://i.imgur.com/5KPA01q.png[/img][/center]
+
+[center]
+[url=https://www.reddit.com/r/CallistoCrypto/][img]https://i.imgur.com/dwFgrul.png[/img][/url]    [url=https://t.me/CallistoNetwork][img]https://i.imgur.com/tK5znb7.png[/img][/url]    [url=https://twitter.com/CallistoSupport][img]https://i.imgur.com/32PFbXl.png[/img][/url]    [url=https://www.facebook.com/callistonetwork/][img]https://i.imgur.com/ZiEP1Yu.png[/img][/center]
+
+
+
+[center][img]https://i.imgur.com/xkJxyMq.png[/img][/center]
+
+[center][img]https://i.imgur.com/AMUhg4o.png[/img]   [img]https://i.imgur.com/ylSLdJf.png[/img]   [img]https://i.imgur.com/h5NWiEu.png[/img][/center]
+
+[center]
+[url=https://github.com/EthereumCommonwealth/Roadmap/issues/42#issuecomment-383542974][img]https://i.imgur.com/6l7dJW1.png[/img] [/url] [url=https://github.com/EthereumCommonwealth/Roadmap/issues/49#issue-315609628][img]https://i.imgur.com/6l7dJW1.png[/img][/url] [url=https://github.com/EthereumCommonwealth/Roadmap/issues/49#issuecomment-383663702][img]https://i.imgur.com/6l7dJW1.png[/img][/url][/center]
+
+
+
+[center][img]https://i.imgur.com/xbjSvPx.png[/img][/center]
+
+
+[center][img]https://i.imgur.com/pXw2OYC.png[/img] [img]https://i.imgur.com/5PCq64x.png[/img] [img]https://i.imgur.com/8spt7V8.png[/img][/center]
+[center][url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url] [url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url] [url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url][/center]
+[center][url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url][/center]
+[center][img]https://i.imgur.com/GmhQBIT.png[/img] [img]https://i.imgur.com/qz8YEuB.png[/img] [img]https://i.imgur.com/uXaip3y.png[/img][/center]
+[center][url=https://coinomi.com/][img]https://i.imgur.com/Qc1lYjG.png[/img][/url] [url=https://coinomi.com/][img]https://i.imgur.com/Qc1lYjG.png[/img][/url] [url=https://ethereumproject.github.io/etherwallet/][img]https://i.imgur.com/EaAVlsO.png[/img][/url][/center]
+[center][url=https://guarda.co/][img]https://i.imgur.com/2wvx4G2.png[/img][/url] [img]https://i.imgur.com/Ty0oFXA.png[/img] [url=https://guarda.co/][img]https://i.imgur.com/2wvx4G2.png[/img][/url][/center]
+[center][url=https://trustwalletapp.com/][img]https://i.imgur.com/QJgFJO8.png[/img][/url] [img]https://i.imgur.com/Jf0wkqZ.png[/img] [url=https://www.myetherwallet.com/][img]https://i.imgur.com/Iro1vAH.png[/img][/url][/center]
+
+
+
+[center][url=https://explorer.callisto.network][img]https://i.imgur.com/FLTjJHh.png[/img][/url]    [img]https://i.imgur.com/sWekqVN.png[/img]    [url=https://clostats.net][img]https://i.imgur.com/WMkTwnb.png[/img][/url][/center]
+
+
+[center][img]https://i.imgur.com/Xk8RxKK.png[/img][/center]
+
+
+[center][size=20pt][url]clopool.pro[/url]        [url]epool.io[/url]        [url]coinfoundry.org[/url]        [url]2miners.com[/url]
+[url]baikalmine.com[/url]  [url]callistopool.org[/url]  [url]callisto-pool.com[/url]  [url]callistopool.io[/url]
+[url]solopool.org[/url]  [url]mole-pool.net[/url]  [url]clona.ru[/url]  [url]minerpool.net[/url]  [url]clopool.net[/url]
+[url]europool.me[/url]       [url]comining.io[/url]       [url]clo.pool.sexy[/url]       [url]clo.mobilla.io[/url][/size][/center]
+
+
+
+[center][img]https://i.imgur.com/3FYu0i5.png[/img][/center]
