@@ -4,15 +4,15 @@
 [center][url=https://callisto.network][img]https://i.imgur.com/Lknptgw.png[/img][/url]      [url=https://whitepaper.callisto.network][img]https://i.imgur.com/JSva6HL.png[/img][/url][/center]
 
 
-[center][size=14pt][color=teal]Callisto Network is a decentralized open source crypto platform
-based on the go-Ethereum source code with its own cryptocurrency ëCLOí.
+[center][size=14pt][color=teal]Callisto Network is a decentralized open source crypto platform 
+based on the go-Ethereum source code with its own cryptocurrency CLO.
 
-The main goal of Callisto is to research, develop a reference implementation
-of a self-sustaining self-governed self-funded blockchain
-ecosystem and development environment.
+The main goal of Callisto is to research, develop a reference implementation 
+of a self-sustaining self-governed self-funded blockchain 
+ecosystem and development environment. 
 
-Callisto aims to establish a secure and contribution-friendly environment
-for further protocol development and improvements.
+Callisto aims to establish a secure and contribution-friendly environment 
+for further protocol development and improvements. 
 Callisto will rely on a built-in system of smart-contracts to achieve this goal.[/color][/size][/center]
 [center][img]https://i.imgur.com/rNn0Al4.png[/img][/center]
 
@@ -35,7 +35,7 @@ Callisto will rely on a built-in system of smart-contracts to achieve this goal.
 [center][img]https://i.imgur.com/5KPA01q.png[/img][/center]
 
 [center]
-[url=https://www.reddit.com/r/CallistoCrypto/][img]https://i.imgur.com/dwFgrul.png[/img][/url]    [url=https://t.me/CallistoNetwork][img]https://i.imgur.com/tK5znb7.png[/img][/url]    [url=https://twitter.com/CallistoSupport][img]https://i.imgur.com/32PFbXl.png[/img][/url]    [url=https://www.facebook.com/callistonetwork/][img]https://i.imgur.com/ZiEP1Yu.png[/img][/center]
+[url=https://www.reddit.com/r/CallistoCrypto/][img]https://i.imgur.com/dwFgrul.png[/img][/url]    [url=https://t.me/CallistoNet][img]https://i.imgur.com/tK5znb7.png[/img][/url]    [url=https://twitter.com/CallistoSupport][img]https://i.imgur.com/32PFbXl.png[/img][/url]    [url=https://www.facebook.com/callistonetwork/][img]https://i.imgur.com/ZiEP1Yu.png[/img][/center]
 
 
 
@@ -53,7 +53,7 @@ Callisto will rely on a built-in system of smart-contracts to achieve this goal.
 
 [center][img]https://i.imgur.com/pXw2OYC.png[/img] [img]https://i.imgur.com/5PCq64x.png[/img] [img]https://i.imgur.com/8spt7V8.png[/img][/center]
 [center][url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url] [url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url] [url=https://github.com/EthereumCommonwealth/go-callisto/releases][img]https://i.imgur.com/PEXT9dZ.png[/img][/url][/center]
-[center][url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url= https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url][/center]
+[center][url=https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url=https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url] [url=https://github.com/EthereumCommonwealth/rust-callisto/releases][img]https://i.imgur.com/NJdf4p8.png[/img][/url][/center]
 [center][img]https://i.imgur.com/GmhQBIT.png[/img] [img]https://i.imgur.com/qz8YEuB.png[/img] [img]https://i.imgur.com/uXaip3y.png[/img][/center]
 [center][url=https://coinomi.com/][img]https://i.imgur.com/Qc1lYjG.png[/img][/url] [url=https://coinomi.com/][img]https://i.imgur.com/Qc1lYjG.png[/img][/url] [url=https://ethereumproject.github.io/etherwallet/][img]https://i.imgur.com/EaAVlsO.png[/img][/url][/center]
 [center][url=https://guarda.co/][img]https://i.imgur.com/2wvx4G2.png[/img][/url] [img]https://i.imgur.com/Ty0oFXA.png[/img] [url=https://guarda.co/][img]https://i.imgur.com/2wvx4G2.png[/img][/url][/center]
@@ -67,10 +67,10 @@ Callisto will rely on a built-in system of smart-contracts to achieve this goal.
 [center][img]https://i.imgur.com/Xk8RxKK.png[/img][/center]
 
 
-[center][size=20pt][url]clopool.pro[/url]        [url]epool.io[/url]        [url]coinfoundry.org[/url]        [url]2miners.com[/url]
-[url]baikalmine.com[/url]  [url]callistopool.org[/url]  [url]callisto-pool.com[/url]  [url]callistopool.io[/url]
-[url]solopool.org[/url]  [url]mole-pool.net[/url]  [url]clona.ru[/url]  [url]minerpool.net[/url]  [url]clopool.net[/url]
-[url]europool.me[/url]       [url]comining.io[/url]       [url]clo.pool.sexy[/url]       [url]clo.mobilla.io[/url][/size][/center]
+[center][size=20pt][url=http://clopool.pro]clopool.pro[/url]        [url=http://epool.io]epool.io[/url]        [url=http://coinfoundry.org]coinfoundry.org[/url]        [url=http://2miners.com]2miners.com[/url]
+[url=http://baikalmine.com]baikalmine.com[/url]  [url=http://callistopool.org]callistopool.org[/url]  [url=http://callisto-pool.com]callisto-pool.com[/url]  [url=http://callistopool.io]callistopool.io[/url]
+[url=http://solopool.org]solopool.org[/url]  [url=http://mole-pool.net]mole-pool.net[/url]  [url=http://clona.ru]clona.ru[/url]  [url=http://minerpool.net]minerpool.net[/url]  [url=http://clopool.net]clopool.net[/url]
+[url=http://europool.me]europool.me[/url]       [url=http://comining.io]comining.io[/url]       [url=http://clo.pool.sexy]clo.pool.sexy[/url]       [url=http://clo.mobilla.io]clo.mobilla.io[/url][/size][/center]
 
 
 
