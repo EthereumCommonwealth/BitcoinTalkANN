@@ -4,38 +4,35 @@
 [center][url=https://callisto.network][img]https://i.imgur.com/Lknptgw.png[/img][/url]      [url=https://whitepaper.callisto.network][img]https://i.imgur.com/JSva6HL.png[/img][/url][/center]
 
 
-[center][size=14pt][color=teal]Callisto Network is a decentralized open source crypto platform
-based on the go-Ethereum source code with its own cryptocurrency CLO.
+[center][size=14pt][color=teal]شيكة كاليستو هي منصة تشفير كريبتو مفتوحة المصدر لامركزية
+مبنية بتقنية كود الإثيريوم بعملة مشفرة خاصة بها.
 
-The main goal of Callisto is to research, develop a reference implementation
-of a self-sustaining self-governed self-funded blockchain
-ecosystem and development environment.
+الهدف الأساسي لشبكة كاليستو هو إختبار وتطور وتطبيق نظام تغذية/إمداد ذاتي، نظام تحكم ذاتي، ونظام تمويل ذاتي لنظام بيئة البلوك تشين ولبيئة تطويرها.
 
-Callisto aims to establish a secure and contribution-friendly environment
-for further protocol development and improvements.
-Callisto will rely on a built-in system of smart-contracts to achieve this goal.[/color][/size][/center]
+كما تهدف كاليستو لإنشاء بيئة آمنة تحمل صفة المساهمة من أجل تطوير وتحسين أي بروتوكول في المستقبل.
+كاليستو ستعتمد على نظام عقود ذكية أساسي للوصول إلى هذا الهدف.[/color][/size][/center]
 [center][img]https://i.imgur.com/rNn0Al4.png[/img][/center]
 
 [center][img]https://i.imgur.com/yKOUyY6.png[/img][/center]
 
 
-[center][size=20pt][color=teal]100% compatibility with Ethereum Virtual Machine[/color][/size][/center]
+[center][size=20pt][color=teal]100% توافقية تامة مع الفيرتشول مشين للإثيريوم[/color][/size][/center]
 [center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
-[center][size=20pt][color=teal]100% compatibility with Solidity[/color][/size][/center]
+[center][size=20pt][color=teal]100% توافقية تامة مع لغة برمجة سوليديتي[/color][/size][/center]
 [center][img]https://i.imgur.com/zxGhT4l.png[/img][/center]
-[center][size=20pt][color=teal]Number of coins in the block: 600 CLO (20% treasury fund - 10% staking fund)[/color][/size][/center]
+[center][size=20pt][color=teal]عدد العملات في البلوك الواحد هو 600 عملة (20% لصندوق الخزينة، 10%لخزينة التخزين البارد)[/color][/size][/center]
 [center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
-[center][size=20pt][color=teal]POW Algorithm, Dagger Hashimoto (Ethash)[/color][/size][/center]
+[center][size=20pt][color=teal]POW خوارزمية, Dagger Hashimoto (Ethash)[/color][/size][/center]
 [center][img]https://i.imgur.com/zxGhT4l.png[/img][/center]
-[center][size=20pt][color=teal]Block interval: 15 seconds[/color][/size][/center]
+[center][size=20pt][color=teal]زمن البلوك: 15 ثانية[/color][/size][/center]
 [center][img]https://i.imgur.com/yQnbKEq.png[/img][/center]
-[center][size=20pt][color=teal]Max emission of coins: 6,500,000,000 CLO[/color][/size][/center]
+[center][size=20pt][color=teal]العدد الإجمالي للعملات: 6,500,000,000 CLO[/color][/size][/center]
 
 
 [center][img]https://i.imgur.com/5KPA01q.png[/img][/center]
 
 [center]
-[url=https://www.reddit.com/r/CallistoCrypto/][img]https://i.imgur.com/dwFgrul.png[/img][/url]    [url=https://t.me/CallistoNet][img]https://i.imgur.com/tK5znb7.png[/img][/url]    [url=https://twitter.com/CallistoSupport][img]https://i.imgur.com/32PFbXl.png[/img][/url]    [url=https://www.facebook.com/callistonetwork/][img]https://i.imgur.com/ZiEP1Yu.png[/img][/center]
+[url=https://www.reddit.com/r/CallistoCrypto/][img]https://i.imgur.com/dwFgrul.png[/img][/url]    [url=https://t.me/CallistoArabic][img]https://i.imgur.com/tK5znb7.png[/img][/url]    [url=https://twitter.com/CallistoSupport][img]https://i.imgur.com/32PFbXl.png[/img][/url]    [url=https://www.facebook.com/callistonetwork/][img]https://i.imgur.com/ZiEP1Yu.png[/img][/center]
 
 
 
