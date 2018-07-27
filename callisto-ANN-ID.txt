@@ -7,9 +7,7 @@
  [center][size=14pt][color=teal]Callisto Network adalah platform crypto sumber kode terbuka yang terdesentralisasi
  berdasarkan kode sumber Go-Ethereum dengan CLO cryptocurrency sendiri.
  
- Tujuan utama Callisto adalah untuk meneliti, mengembangkan implementasi referensi
--untuk mempertahankan diri, pemerintahan sendiri, dan blockchain yang didanai sendiri (self-sustaining self-governed, self-funded) dari ekosistem dan lingkungan pengembangan.
-+yang bisa membentuk sistem mempertahankan diri dalam Blockchain, memiliki pemerintahan dari ekosistem dan kominitas itu sendiri, dan blockchain yang mampu didanai sendiri dari ekosistem dan lingkungan pengembangan (self-sustaining, self-governed, self-funded).
+ Tujuan utama Callisto adalah untuk meneliti, mengembangkan implementasi referensi yang bisa membentuk sistem mempertahankan diri dalam Blockchain, memiliki pemerintahan dari ekosistem dan kominitas itu sendiri, dan blockchain yang mampu didanai sendiri dari ekosistem dan lingkungan pengembangan (self-sustaining, self-governed, self-funded).
  
  Callisto bertujuan untuk membangun lingkungan yang aman dan berkontribusi-ramah
  untuk pengembangan dan perbaikan protokol lebih lanjut.
